@@ -18,14 +18,14 @@ Java concepts demonstrated:
 Do-while loop: Runs the main menu and guarantees it shows at least once.
 while loop: Validates that the number of items entered is greater than 0.
 For loop: Loops through each item to collect and total up prices.
-Ternary operator:	Decides whether the order qualifies for a discount
+Ternary operator:	Decides whether the order qualifies for a discount.
 
 How to run this project:
-Open Eclipse and create a new Java Project
-Create a package named canteen
-Create a class named Main inside that package
-Copy the contents of Main.java from this repo into your new file
-Run the program and follow the on-screen menu
+Open Eclipse and create a new Java Project.
+Create a package named canteen.
+Create a class named Main inside that package.
+Copy the contents of Main.java from this repo into your new file.
+Run the program and follow the on-screen menu.
 
 Group members:
 ABIZERA CHANCE JEREMY - 25/U/14840/PS
