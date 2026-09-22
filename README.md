@@ -2,11 +2,12 @@ Canteen Order System
 
 A simple Java console application built for the BBC 2, OOP Java Programming Group Assignment, covering Episodes 10–13 on Conditional Statements and Loops.
 
-What it does
+What it does:
 
-The program simulates a canteen ordering system. A user can:
+The program simulates a canteen ordering system. 
 
-Place an order by entering how many items they're buying and the price of each item.
+A user can:
+Place an order by entering how many items they are buying and the price of each item.
 See the total cost, and find out whether the order qualifies for a discount.
 Exit the program when finished.
 
